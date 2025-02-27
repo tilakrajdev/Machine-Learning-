@@ -6,12 +6,17 @@ This repository contains various machine learning projects, algorithms, and impl
 
 📂 Repository Structure
 
-📦 Machine-Learning-Repository
+📦 Machine-Learning-Repository <br/>
  ┣ 📂 datasets/       # Contains datasets used for ML models
+ <br/>
  ┣ 📂 notebooks/      # Jupyter notebooks for ML experiments
+ <br/>
  ┣ 📂 models/         # Trained models and saved weights
+ <br/>
  ┣ 📂 src/            # Python scripts for model training and evaluation
+ <br/>
  ┣ 📜 requirements.txt  # Required libraries
+ <br/>
  ┣ 📜 README.md       # Documentation file
 
  🏗️ Projects Included
